@@ -1,0 +1,42 @@
+{
+  "name": "Aishwarya K B",
+  "email": "kbaishwarya7@gmail.com",
+  "phone": "+91-",
+  "linkedin": null,
+  "skills": [
+    "machine learning",
+    "pandas",
+    "css",
+    "mongodb",
+    "tableau",
+    "javascript",
+    "html",
+    "python",
+    "sql",
+    "power bi",
+    "numpy",
+    "r",
+    "mysql"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering - Computer Science; GPA: 8.37",
+      "institution": "Engineering College",
+      "year": "2022"
+    }
+  ],
+  "experience": [],
+  "certifications": [
+    "data structures",
+    "software development",
+    "and problem-solving techniques.",
+    "for real-world applications.",
+    "\u25e6Python Certification: Demonstrated proficiency in Python programming",
+    "\u25e6Basics of Python Software Engineering: Certified in fundamental Python programming concepts",
+    "principles",
+    "and algorithm implementation"
+  ],
+  "projects": [
+    "or stakeholders."
+  ]
+}
